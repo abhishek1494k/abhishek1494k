@@ -55,6 +55,18 @@
   <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Replit-Dark.svg" width="50px" />&nbsp;
 </p>
 
+<p align="center">
+<i><h3 align="center">Tech Stacks:</h3></i> 
+  <div align="center">
+  
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,netlify)](https://skillicons.dev)
+   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" alt="postman" width="45" height="45"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Redis-Dark.svg" alt="redis" width="45" height="45"/> </a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CodePen-Dark.svg" alt="codepen" width="45" height="45"/> </a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg" alt="codepen" width="45" height="45"/> </a>
+ </div>
+</p>
+<hr>
+
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abhishek1494k&theme=radical&mode=weekly" />
