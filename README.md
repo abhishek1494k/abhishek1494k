@@ -54,6 +54,11 @@
   <img align="center" src="assets/tools/github.svg" width="50px" />&nbsp;
   <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Replit-Dark.svg" width="50px" />&nbsp;
 </p>
+
+<div style="display: flex; align-items: center; justify-content: center;">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhishek1494k&theme=radical&mode=weekly)](https://git.io/streak-stats)
+</div>
+
 <!-- Coffee -->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abhijaiswa6"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/abhijaiswa6" /></a>
