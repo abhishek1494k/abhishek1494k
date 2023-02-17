@@ -125,11 +125,10 @@
   <p><a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek1494k&theme=radical" />
   </a></p>
+    <p><a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github.com/abhishek1494k/abhishek1494k/blob/output/github-contribution-grid-snake.svg" />
+  </a></p>
 </div>
-
-
-![Snake animation](https://github.com/abhishek1494k/abhishek1494k/blob/output/github-contribution-grid-snake.svg)
-
 <!-- Coffee -->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abhijaiswa6"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/abhijaiswa6" /></a>
@@ -137,4 +136,7 @@
 <!-- Footer -->
 <div align="center"><img align="center" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="100%"  /></div>
 <hr>
+
+![Snake animation](https://github.com/abhishek1494k/abhishek1494k/blob/output/github-contribution-grid-snake.svg)
+
 <img src="/resources/waves.svg?tr=rt-180" width="100%" height="150">
