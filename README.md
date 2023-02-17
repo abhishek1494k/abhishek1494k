@@ -58,20 +58,19 @@
 
 <hr>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <p><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abhishek1494k&theme=radical&mode=weekly" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+  </a></p>
+  <p><a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek1494k&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+  </a></p>
+  <p><a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek1494k&theme=radical" />
-</a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  </a></p>
+  <p><a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek1494k&theme=radical" />
-  </a>
-  
+  </a></p>
 </div>
 
 <!-- Coffee -->
