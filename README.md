@@ -126,7 +126,10 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek1494k&theme=radical" />
   </a></p>
 </div>
+
+
 ![Snake animation](https://github.com/abhishek1494k/abhishek1494k/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Coffee -->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abhijaiswa6"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/abhijaiswa6" /></a>
