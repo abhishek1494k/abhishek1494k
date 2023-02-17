@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/abhishek1494k/abhishek1494k/blob/output/github-contribution-grid-snake.svg)
+<p>![Snake animation](https://github.com/abhishek1494k/abhishek1494k/blob/output/github-contribution-grid-snake.svg)</p>
 <!-- Hello Message -->
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px">
