@@ -54,10 +54,63 @@
   <img align="center" src="assets/tools/github.svg" width="50px" />&nbsp;
   <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Replit-Dark.svg" width="50px" />&nbsp;
 </p>
-
-
+<h3 align="center">Connect with me:</h3>
+<p align = "center">
+    <a href="https://stackoverflow.com/users/20404264/abhishe">
+    <img align="center" alt="Abhishek @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />&nbsp;
+  </a>
+    <a href="https://codesandbox.io/u/abhishek1494k">
+    <img align="center" alt="Abhishek @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" />&nbsp;
+  </a>
+    <a href="https://medium.com/@abhishek1494k">
+    <img align="center" alt="Abhishek @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />&nbsp;
+  </a>
+    <a href="https://www.youtube.com/@abhishek1494k">
+    <img align="center" alt="Abhishek @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />&nbsp;
+  </a>
+  <a href="mailto:abhi.jaiswal1494@gmail.com">
+    <img align="center" alt="Abhishek @Mail" width="50px" src="assets/handles/gmail.svg" />&nbsp;
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek1994k/">
+    <img align="center" alt="FAbhishek @LinkedIN" width="50px" src="assets/handles/linkedin.svg" />&nbsp;
+  </a>
+  <a href="https://medium.com/@abhishek1494k">
+    <img align="center" src="assets/handles/medium.svg" alt="Falguni @Medium Profile" width="50px">&nbsp;
+  </a>
+  <a href="#">
+    <img align="center" alt="Spotify" width="50px" src="assets/handles/hashnode.png" />&nbsp;
+  </a>
+  <a href="#">
+    <img align="center" alt="Spotify" width="50px" src="assets/handles/spotify.png" />&nbsp;
+  </a>
+  <a href="https://discord.com/channels/@me">
+    <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/discord.png" />&nbsp;
+  </a>
+  <a href="https://twitter.com/abhishek1494k">
+    <img align="center" alt="Abhishek @Twitter" width="50px" src="assets/handles/twitter.svg" />&nbsp;
+  </a>
+  <a href="#">
+    <img align="center" alt="Abhishek @Instagram" width="50px" src="assets/handles/instagram.svg" />&nbsp;
+  </a>
+  <a href="https://dev.to/abhishek1494k">
+    <img align="center" src="assets/handles/dev.png" alt="Falguni @DEV Profile" width="50px">&nbsp;
+  </a>
+</p>
 <hr>
+<!---------------------------------------------------------------------------------------------------------------------- ISSUE -->
+<!-- <p align="center">
+<i><h3 align="center">Tech Stacks:</h3></i> 
+  <div align="center">
+  
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,netlify)](https://skillicons.dev)
+   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" alt="postman" width="45" height="45"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Redis-Dark.svg" alt="redis" width="45" height="45"/> </a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CodePen-Dark.svg" alt="codepen" width="45" height="45"/> </a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg" alt="codepen" width="45" height="45"/> </a>
+ </div>
+</p> -->
 
+<!-- Git -->
+<hr>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <p><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abhishek1494k&theme=radical&mode=weekly" />
