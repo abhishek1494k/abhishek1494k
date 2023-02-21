@@ -99,7 +99,7 @@
 </p>
 <hr>
 <!---------------------------------------------------------------------------------------------------------------------- ISSUE -->
-<!-- <p align="center">
+<p align="center">
 <i><h3 align="center">Tech Stacks:</h3></i> 
   <div align="center">
   
@@ -108,7 +108,7 @@
     <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CodePen-Dark.svg" alt="codepen" width="45" height="45"/> </a>
     <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg" alt="codepen" width="45" height="45"/> </a>
  </div>
-</p> -->
+</p>
 
 <!-- Git -->
 <hr>
