@@ -134,12 +134,12 @@
   <p><a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek1494k&theme=radical" />
   </a></p>
-  <p><a href="https://github.com/anuraghazra/convoychat">
+<!--   <p><a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek1494k&theme=radical" />
-  </a></p>
-    <p><a href="https://github.com/anuraghazra/convoychat">
+  </a></p> -->
+<!--     <p><a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github.com/abhishek1494k/abhishek1494k/blob/output/github-contribution-grid-snake.svg" />
-  </a></p>
+  </a></p> -->
 </div>
 <!-- Coffee -->
 <h3 align="left">Support:</h3>
