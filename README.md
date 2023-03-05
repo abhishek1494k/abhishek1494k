@@ -3,6 +3,7 @@
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px">
 </h1>
+
 <!-- About -->
 <p align="center">
   <em>
@@ -13,39 +14,54 @@
     <b>excel</b> <img src="assets/gifs/Medal.gif" width="20px">&nbsp.
   </em>
 </p>
+
 <!-- Coder Uncle Pic -->
 <div id="header" align="center">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
 </div>
+
 <!-- Trophies -->
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishek1494k&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek1494k" /> </p>
-<p align="center"> <a href="https://twitter.com/abhishek1494k" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek1494k?logo=twitter&style=for-the-badge" alt="abhishek1494k" /></a> </p>
+<!-- <p align="center"> <a href="https://twitter.com/abhishek1494k" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek1494k?logo=twitter&style=for-the-badge" alt="abhishek1494k" /></a> </p> -->
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=abhishek1494k&theme=monokai" alt="abhishek1494k" /></a> </p>
 <hr>
 
   <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
-- 🔭 I’m currently working on [HomeDecor.com](https://github.com/abhishek1494k/valid-morning-8854)
+<!-- - 🔭 I’m currently working on [HomeDecor.com](https://github.com/abhishek1494k/valid-morning-8854) -->
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯I collaborated for [MY>TV.com](https://github.com/abhishek1494k/brainy-sidewalk-2900)
+- 👯I collaborated for **[MY>TV.com](https://github.com/abhishek1494k/brainy-sidewalk-2900)**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://abhishek1494k.github.io/)
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://abhishek1494k.github.io/)**
 
-- 💬 Ask me about **NodeJS, ExpressJS, MongoDB, JavaScript, CSS3, HTML5**
+<!-- - 💬 Ask me about **NodeJS, ExpressJS, MongoDB, JavaScript, CSS3, HTML5** -->
 
 - 📫 How to reach me **abhi.jaiswal1494@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1DPUbSCRDJbNd2Su1NAzYhed_QRKdp1gG/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1DPUbSCRDJbNd2Su1NAzYhed_QRKdp1gG/view?usp=sharing">Resume</a>**
 
-- ⚡ Fun fact **I am Scorpian**
+- ⚡ Fun fact is **I have did 1200+ hrs of Coding / 790+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes**
 <hr>
-<!-- Tools -->
+
+<!---------------------------------------------------------------------------------------------------------------------- ISSUE -->
 <p align="center">
-<i><b>Tools known:</b></i> 
-  <br><br>
+<i><h3 align="center">Tech Stacks:</h3></i> 
+  <div align="center">
+  
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,redis)](https://skillicons.dev)
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg" alt="codepen" width="45" height="45"/> </a>
+ </div>
+</p>
+<hr>
+
+
+<!-- Tools -->
+ <h3 align="center">Tools Known:</h3>
+<p align="center">
+<!-- <i><b>Tools known:</b></i>  -->
   <img align="center" src="assets/tools/vs-code.png" width="50px" />&nbsp;
   <img align="center" src="assets/tools/word.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/excel.svg" width="50px" />&nbsp;
@@ -53,8 +69,11 @@
   <img align="center" src="assets/tools/cmd.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/git.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/github.svg" width="50px" />&nbsp;
+   <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" alt="postman" width="50px"/>
   <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Replit-Dark.svg" width="50px" />&nbsp;
 </p>
+<hr>
+
 <h3 align="center">Connect with me:</h3>
 <p align = "center">
     <a href="https://stackoverflow.com/users/20404264/abhishe">
@@ -66,8 +85,12 @@
     <a href="https://medium.com/@abhishek1494k">
     <img align="center" alt="Abhishek @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />&nbsp;
   </a>
-    <a href="https://www.youtube.com/@abhishek1494k">
+<!--     <a href="https://www.youtube.com/@abhishek1494k">
     <img align="center" alt="Abhishek @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />&nbsp;
+  </a> -->
+<!--     <a href="" target="_blank" rel="noreferrer"> <img src="" alt="codepen" width="45" height="45"/> </a> -->
+    <a href="mailto:abhi.jaiswal1494@gmail.com">
+    <img align="center" alt="Abhishek @Mail" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CodePen-Dark.svg" />&nbsp;
   </a>
   <a href="mailto:abhi.jaiswal1494@gmail.com">
     <img align="center" alt="Abhishek @Mail" width="50px" src="assets/handles/gmail.svg" />&nbsp;
@@ -75,39 +98,12 @@
   <a href="https://www.linkedin.com/in/abhishek1994k/">
     <img align="center" alt="FAbhishek @LinkedIN" width="50px" src="assets/handles/linkedin.svg" />&nbsp;
   </a>
-  <a href="https://medium.com/@abhishek1494k">
-    <img align="center" src="assets/handles/medium.svg" alt="Falguni @Medium Profile" width="50px">&nbsp;
-  </a>
-  <a href="#">
-    <img align="center" alt="Spotify" width="50px" src="assets/handles/hashnode.png" />&nbsp;
-  </a>
-  <a href="#">
-    <img align="center" alt="Spotify" width="50px" src="assets/handles/spotify.png" />&nbsp;
-  </a>
   <a href="https://discord.com/channels/@me">
     <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/discord.png" />&nbsp;
-  </a>
-  <a href="https://twitter.com/abhishek1494k">
-    <img align="center" alt="Abhishek @Twitter" width="50px" src="assets/handles/twitter.svg" />&nbsp;
-  </a>
-  <a href="#">
-    <img align="center" alt="Abhishek @Instagram" width="50px" src="assets/handles/instagram.svg" />&nbsp;
   </a>
   <a href="https://dev.to/abhishek1494k">
     <img align="center" src="assets/handles/dev.png" alt="Falguni @DEV Profile" width="50px">&nbsp;
   </a>
-</p>
-<hr>
-<!---------------------------------------------------------------------------------------------------------------------- ISSUE -->
-<p align="center">
-<i><h3 align="center">Tech Stacks:</h3></i> 
-  <div align="center">
-  
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,netlify)](https://skillicons.dev)
-   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" alt="postman" width="45" height="45"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Redis-Dark.svg" alt="redis" width="45" height="45"/> </a>
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CodePen-Dark.svg" alt="codepen" width="45" height="45"/> </a>
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg" alt="codepen" width="45" height="45"/> </a>
- </div>
 </p>
 
 <!-- Git -->
