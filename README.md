@@ -53,6 +53,7 @@
   
    [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,redis)](https://skillicons.dev)
     <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg" alt="codepen" width="45" height="45"/> </a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="50" height="50"/> </a>
  </div>
 </p>
 <hr>
@@ -67,7 +68,7 @@
   <img align="center" src="assets/tools/excel.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/powerpoint.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/cmd.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/git.svg" width="50px" />&nbsp;
+  <img align="center" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50px" />&nbsp;
   <img align="center" src="assets/tools/github.svg" width="50px" />&nbsp;
    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" alt="postman" width="50px"/>
   <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Replit-Dark.svg" width="50px" />&nbsp;
