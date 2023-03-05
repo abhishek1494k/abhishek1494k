@@ -43,7 +43,7 @@
 
 - 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1DPUbSCRDJbNd2Su1NAzYhed_QRKdp1gG/view?usp=sharing">Resume</a>**
 
-- ⚡ Fun fact is **I have did 1200+ hrs of Coding / 790+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes**
+- ⚡ Fun fact is **< I have did 1200+ hrs of Coding / 790+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes />**
 <hr>
 
 <!---------------------------------------------------------------------------------------------------------------------- ISSUE -->
