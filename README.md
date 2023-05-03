@@ -70,9 +70,8 @@
 <img src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/mysql-logo.png" alt="mysql" width="50" height="50"/>
 <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" width="50" height="50"/>
 <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg" alt="aws" width="50" height="50"/>
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/240px-Socket-io.svg.png" alt="socket" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg" alt="aws" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/240px-Socket-io.svg.png" alt="socket" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Oauth_logo.svg/1024px-Oauth_logo.svg.png" alt="Oauth" width="50" height="50"/>
 </p>
 <hr>
 
