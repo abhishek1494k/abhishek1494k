@@ -94,12 +94,6 @@
 
 <hr>
 
-<!-- GitHub Commit Heatmap / Activity Graph -->
-<h3 align="center">📈 My GitHub Activity:</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek1494k&theme=react-dark&hide_border=true&area=true&custom_title=Abhishek's%20Contribution%20Graph" alt="Abhishek's GitHub activity graph" />
-</p>
-
 <p align="center">
   <img src="https://github.com/abhishek1494k/abhishek1494k/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
