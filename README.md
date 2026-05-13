@@ -82,12 +82,6 @@
     <img align="center" src="https://streak-stats.demolab.com?user=abhishek1494k&theme=radical" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek1494k&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek1494k&theme=radical&layout=compact&langs_count=8" />
-  </p>
-  <p>
     <img align="center" src="https://leetcard.jacoblin.cool/abhishek1494k?theme=dark&font=Source%20Code%20Pro&ext=heatmap" />
   </p>
 </div>
