@@ -80,7 +80,7 @@
 
 <p align="center">
   <img 
-    src="https://ghchart.rshah.org/00bfff/abhishek1494k" 
+    src="https://ghchart.rshah.org/1BCE33/abhishek1494k" 
     alt="Abhishek's Github Contribution Chart" 
   />
 </p>
