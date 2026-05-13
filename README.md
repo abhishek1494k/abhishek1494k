@@ -85,9 +85,6 @@
   />
 </p>
 
-<hr>
-
-<hr>
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -98,11 +95,6 @@
     <img align="center" src="https://leetcard.jacoblin.cool/abhishek1494k?theme=dark&font=Source%20Code%20Pro&ext=heatmap" />
   </p>
 </div>
-
-
-
-<hr>
-
 <p align="center">
   <img src="https://github.com/abhishek1494k/abhishek1494k/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
