@@ -76,6 +76,19 @@
 
 <hr>
 
+<h3 align="center">Contribution Heatmap</h3>
+
+<p align="center">
+  <img 
+    src="https://ghchart.rshah.org/00bfff/abhishek1494k" 
+    alt="Abhishek's Github Contribution Chart" 
+  />
+</p>
+
+<hr>
+
+<hr>
+
 <!-- GitHub Stats -->
 <div align="center">
   <p>
@@ -85,6 +98,8 @@
     <img align="center" src="https://leetcard.jacoblin.cool/abhishek1494k?theme=dark&font=Source%20Code%20Pro&ext=heatmap" />
   </p>
 </div>
+
+
 
 <hr>
 
