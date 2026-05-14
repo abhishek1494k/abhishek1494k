@@ -76,16 +76,6 @@
 
 <hr>
 
-<h3 align="center">Contribution Heatmap</h3>
-
-<p align="center">
-  <img 
-    src="https://ghchart.rshah.org/1BCE33/abhishek1494k" 
-    alt="Abhishek's Github Contribution Chart" 
-  />
-</p>
-
-
 <!-- GitHub Stats -->
 <div align="center">
   <p>
